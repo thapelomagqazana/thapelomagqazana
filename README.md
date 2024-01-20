@@ -1,10 +1,12 @@
 # From Blueprint to Binary: A Backend Builder's Journey
 
-** My Story: **
+## My Story:
+
 - ### Hard Hats to Headsets:
 From blueprints to bits, my journey to code has been one of translating physical structures into the intricate architecture of software. Two years ago, trading in hard hats for headphones, I dove headfirst into the world of programming, leaving construction dust behind for the thrill of building scalable systems and robust backends.
 
-** Current Focus:**
+## Current Focus:
+
 - ### Python Maestro:
   Crafting performant pipelines and sculpting dynamic data structures with Python's elegance. ⚡️
 - ### Java Architect:
