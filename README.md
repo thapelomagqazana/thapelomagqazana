@@ -24,8 +24,17 @@ Eagerly expanding my skillset by mastering the frontend and backend dance with J
 
 ## ⚡️ Passions Beyond Code:
 
-[Football, Quentin Tarantino movies, Listening to tech Podcasts like Lex Fridman, Jazz and Deep house music while coding]
+- Football
+- Quentin Tarantino films
+- Listening to tech Podcasts like Lex Fridman
+- Jazz and Deep house music while coding
 
-## Open Doors   
+## Currently Looking:   
 Seeking backend/systems roles in Java and Python where I can flex my code muscles and build impactful solutions.
+
+##Let's Connect!
+
+I'm always eager to collaborate, learn, and share knowledge. Feel free to reach out:
+
+Chat and collaborate about tech: www.linkedin.com/in/thapelo-magqazana-90632a174
 
