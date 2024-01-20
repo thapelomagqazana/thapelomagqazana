@@ -32,7 +32,7 @@ Eagerly expanding my skillset by mastering the frontend and backend dance with J
 ## Currently Looking:   
 Seeking backend/systems roles in Java and Python where I can flex my code muscles and build impactful solutions.
 
-##Let's Connect!
+## Let's Connect!
 
 I'm always eager to collaborate, learn, and share knowledge. Feel free to reach out:
 
