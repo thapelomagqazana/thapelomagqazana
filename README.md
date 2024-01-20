@@ -23,7 +23,7 @@ Eagerly expanding my skillset by mastering the frontend and backend dance with J
 - Data Engineering
 
 ## ⚡️ Passions Beyond Code:
-
+- Sport Cars
 - Football
 - Quentin Tarantino films
 - Listening to tech Podcasts like Lex Fridman
