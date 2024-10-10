@@ -1,9 +1,9 @@
-# From Blueprint to Binary: A Backend Builder's Journey
+# From Blueprint to Binary: A Full Stack Developer’s Journey
 
 ## My Story:
 
 ### Hard Hats to Headsets:
-From blueprints to bits, my journey to code has been one of translating physical structures into the intricate architecture of software. Two years ago, trading in hard hats for headphones, I dove headfirst into the world of programming, leaving construction dust behind for the thrill of building scalable systems and robust backends.
+From blueprints to code, my journey has been about transforming physical structures into seamless digital systems. Two years ago, I swapped construction management for full stack development, leaving behind hard hats for headphones. The thrill of building scalable solutions and dynamic user interfaces has kept me hooked ever since.
 
 ## Current Focus:
 
@@ -30,7 +30,7 @@ Eagerly expanding my skillset by mastering the frontend and backend dance with J
 - Jazz and Deep house music while coding
 
 ## Currently Looking:   
-Seeking backend/systems roles in Java and Python where I can flex my code muscles and build impactful solutions.
+Seeking full stack development roles where I can flex both backend and frontend skills, especially in Javascript, Java and Python, to build impactful solutions.
 
 ## Let's Connect!
 
