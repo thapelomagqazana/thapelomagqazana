@@ -59,7 +59,7 @@ bb score
 bb gate --policy production
 ```
 
-###⚡ StackCraft — Backend System Generator
+### ⚡ StackCraft — Backend System Generator
 
 > Generate a production-ready backend in minutes.
 
@@ -170,9 +170,9 @@ I share insights on:
 ---
 
 ## 🤝 Let's Connect
-💼 LinkedIn: [https://www.linkedin.com/in/thapelomagqazana](https://www.linkedin.com/in/thapelo-magqazana-90632a174/)
-📧 Email: tapsmcgzee8@gmail.com
-🌍 Portfolio: [(View my journey)](https://thapelo-portfolio.vercel.app/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/thapelomagqazana](https://www.linkedin.com/in/thapelo-magqazana-90632a174/)
+- 📧 Email: tapsmcgzee8@gmail.com
+- 🌍 Portfolio: [(View my journey)](https://thapelo-portfolio.vercel.app/)
 
 ---
 
