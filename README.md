@@ -176,7 +176,7 @@ I share insights on:
 
 ---
 
-##⚡ Philosophy
+## ⚡ Philosophy
 
 “Good software runs. Great software is safe to release.”
 
